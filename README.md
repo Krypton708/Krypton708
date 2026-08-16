@@ -113,6 +113,6 @@ I'm involved in the **Climate-Sensitive Infectious Disease Network (CSIDNet)**, 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
 </a>
 
-</p>
+## 🌐 **[Portfolio](https://sites.google.com/view/eliasdogbatsey)** 
 
-🌐 **Portfolio:** [sites.google.com/view/eliasdogbatsey](https://sites.google.com/view/eliasdogbatsey)
+</p>
